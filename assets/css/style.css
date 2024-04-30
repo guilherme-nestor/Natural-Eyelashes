@@ -6,22 +6,22 @@ Lilás suave: #E6E6FA */
 
 @font-face {
     font-family: Poppins;
-    src: url(/Cardápio/fonts/Poppins-Regular.woff) format('truetype');
+    src: url(../../fonts/Poppins-Regular.woff) format('truetype');
 }
 
 @font-face {
     font-family: BebasNeue;
-    src: url(/Cardápio/fonts/BebasNeue-Regular.woff);
+    src: url(../../fonts/BebasNeue-Regular.woff);
 }
 
 @font-face {
     font-family: AmberTaste;
-    src: url(/Cardápio/fonts/AmberTaste.woff);
+    src: url(../../fonts/AmberTaste.woff);
 }
 
 @font-face {
     font-family: Astrid;
-    src: url(/Mãe/fonts/Astrid.woff);
+    src: url(../../fonts/Astrid.woff);
 }
 
 * {
