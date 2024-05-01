@@ -1,0 +1,69 @@
+/* Responsividade */
+@media (max-width: 1060px) {
+
+    header {
+        flex-wrap: wrap;
+    }
+
+    .menuCabecalho {
+        flex: 1 1 900px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .textos {
+        width: 100%;
+    }
+
+    .textos h1 {
+        font-size: 5em;
+        margin: 0;
+        padding: 0;
+    }
+
+}
+
+@media (max-width: 500px) {
+    .textos {
+        font-size: 3.2vw;
+    }
+}
+
+@media (max-width: 459px) {
+
+    .card {
+        max-width: none;
+    }
+
+}
+
+@media (max-width: 517px) {
+    
+    .informacoes{
+        margin: 0;
+    }
+
+}
+
+@media (max-width: 853px) {
+
+    .imgPrincipal {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .informacoes {
+        max-width: 100%;
+    }
+
+}
+
+/* @media (max-width: 453px) {
+
+    .boxProduct {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+
+} */
